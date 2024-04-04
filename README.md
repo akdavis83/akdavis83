@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akdavis83
-- 👀 I’m interested in ...Blockchain
-- 🌱 I’m currently learning ...Full Stack and Blockchain Dev
-- 💞️ I’m looking to collaborate on ...my first web school project
+- 👀 I’m interested in ...Blockchain development
+- 🌱 I’m currently learning ...Full Stack and Blockchain Development
+- 💞️ I’m looking to collaborate on ...Blockchain projects
 - 📫 How to reach me ...akdavis83@yahoo.com
 
 <!---
