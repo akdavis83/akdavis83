@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 - 👋 Hi, I’m @akdavis83
 - 👀 I’m interested in ...Blockchain development
 - 🌱 I’m currently learning ...Full Stack and Blockchain Development at Kingsland University
