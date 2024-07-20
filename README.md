@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Blockchain technology**
+- 👨‍💻 I’m looking to collaborate on **Blockchain technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akdavis83](https://github.com/akdavis83)
 
