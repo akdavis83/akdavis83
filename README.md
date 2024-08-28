@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akdavis83" alt="akdavis83" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavis83)&langs count=10](https://github.com/akdavis83/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavis83)](https://github.com/akdavis83/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavis83&layout=donut)](https://github.com/akdavis83/github-readme-stats)
 
 <p align="left"> <a href="https://twitter.com/selahammahlekoh" target="blank"><img src="https://img.shields.io/twitter/follow/selahammahlekoh?logo=twitter&style=for-the-badge" alt="selahammahlekoh" /></a> </p>
